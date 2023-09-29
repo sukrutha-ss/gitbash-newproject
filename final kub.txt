@@ -1,0 +1,5 @@
+master - 172.31.42.115 ip-172-31-42-115.ap-northeast-1.compute.internal
+
+node - 172.31.43.18 ip-172-31-43-18.ap-northeast-1.compute.internal
+
+token - 
